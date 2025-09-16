@@ -4,7 +4,7 @@
 
 ![Introduction to the ESI Prediction Model](https://raw.githubusercontent.com/lfsalasnu/Specific_CPI/main/Problem_general.png)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/ESI_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lfsalasnu/ESI_Prediction/blob/main/notebooks/ESI_Prediction.ipynb)
 _Click the badge to run this project directly in Google Colab._
 
 ---
@@ -63,7 +63,7 @@ Studies with this model have covered both plant organisms, such as **plants**, a
 
 1.  **Clone the repository:**
     ```
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/lfsalasnu/ESI_Prediction.git](https://github.com/lfsalasnu/ESI_Prediction.git)
     ```
 2.  **Run in Colab:**
     The easiest way is to click the "Open In Colab" badge at the beginning of the file. Follow the steps in the `ESI_Prediction.ipynb` notebook to load data, process sequences, train the model, and evaluate its performance.
