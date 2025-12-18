@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/286865245.svg)](https://zenodo.org/badge/latestdoi/286865245)
+[![DOI](https://zenodo.org/badge/1064795608.svg)](https://doi.org/10.5281/zenodo.17977975)
 
 # Enzyme-Substrate Interaction (ESI) Prediction
 
